@@ -1,0 +1,1180 @@
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\kiki^.^>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\kiki^.^>cd
+C:\Users\kiki^.^
+
+C:\Users\kiki^.^>cd /SI_2024_lab1_143138
+The system cannot find the path specified.
+
+C:\Users\kiki^.^>cd \SI_2024_lab1_14313
+The system cannot find the path specified.
+
+C:\Users\kiki^.^>cd SI_2024_lab1_143138
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138> git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init
+Reinitialized existing Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git remote add origin https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+error: remote origin already exists.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git remote -v
+origin  https://github.com/HristinaJanevska/SI_2024_lab1_143138.git (fetch)
+origin  https://github.com/HristinaJanevska/SI_2024_lab1_143138.git (push)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd
+C:\Users\kiki^.^\SI_2024_lab1_143138
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd..
+
+C:\Users\kiki^.^>git add README.md
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\kiki^.^>git status
+fatal: not a git repository (or any of the parent directories): .git
+
+C:\Users\kiki^.^>SI_2024_lab1_143138
+'SI_2024_lab1_143138' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^>\SI_2024_lab1_143138
+'\SI_2024_lab1_143138' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^>SI_2024_lab1_143138
+'SI_2024_lab1_143138' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^>\SI_2024_lab1_143138
+'\SI_2024_lab1_143138' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^>cd SI_2024_lab1_143138
+
+C:\Users\kiki^.^\SI_2024_lab1_143138> git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138> git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>touch README.md
+'touch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd readme.mk\
+The system cannot find the path specified.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd readme.md
+The system cannot find the path specified.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138
+
+22.03.2024  20:26    <DIR>          .
+22.03.2024  20:26    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  15.192.743.936 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd ..
+
+C:\Users\kiki^.^>ls
+'ls' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^
+
+22.03.2024  20:19    <DIR>          .
+22.03.2024  20:19    <DIR>          ..
+21.03.2024  17:38               222 .gitconfig
+22.11.2020  21:35    <DIR>          .idlerc
+26.07.2022  23:07    <DIR>          .matplotlib
+08.07.2022  09:46    <DIR>          .ms-ad
+22.11.2020  16:27    <DIR>          .PyCharmCE2018.3
+30.11.2020  20:09    <DIR>          .vscode
+06.04.2021  00:24    <DIR>          3D Objects
+06.04.2021  00:24    <DIR>          Contacts
+26.07.2021  15:05    <DIR>          Creative Cloud Files
+22.03.2024  20:08    <DIR>          Desktop
+29.05.2023  13:07    <DIR>          Documents
+22.03.2024  20:21    <DIR>          Downloads
+04.04.2022  21:22    <DIR>          downloadtemp
+06.04.2021  00:24    <DIR>          Favorites
+06.04.2021  00:24    <DIR>          Links
+18.09.2021  23:25    <DIR>          magnolia-6.2.11
+18.09.2021  23:26    <DIR>          magnolia-community-demo-webapp-6.2.11-tomcat-bundle
+29.09.2023  15:47    <DIR>          Microsoft
+06.04.2021  00:24    <DIR>          Music
+12.08.2021  17:36    <DIR>          OneDrive
+19.12.2021  13:34    <DIR>          Pictures
+29.07.2022  17:00    <DIR>          PycharmProjects
+22.03.2024  20:19    <DIR>          Searches
+22.03.2024  20:26    <DIR>          SI_2024_lab1_143138
+22.03.2024  20:19    <DIR>          Videos
+               1 File(s)            222 bytes
+              26 Dir(s)  15.754.330.112 bytes free
+
+C:\Users\kiki^.^>cd si_2024_lab1_143138
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir\
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\
+
+21.04.2023  18:24    <DIR>          $WINDOWS.~BT
+04.04.2022  21:26    <DIR>          DanaleVideoInit
+21.04.2023  19:15    <DIR>          ESD
+22.03.2024  22:59    <DIR>          Intel
+16.03.2022  00:31    <DIR>          laragon
+22.09.2021  22:30    <DIR>          magnolia
+07.12.2019  10:14    <DIR>          PerfLogs
+22.03.2024  20:23    <DIR>          Program Files
+04.04.2022  21:22    <DIR>          Program Files (x86)
+22.11.2020  21:37    <DIR>          Python25
+22.11.2020  16:46    <DIR>          Python27
+19.03.2022  20:58    <DIR>          Ross-Tech
+01.10.2022  23:52    <DIR>          Temp
+06.04.2021  00:17    <DIR>          Users
+22.03.2024  22:00    <DIR>          Windows
+16.03.2022  00:14    <DIR>          xampp
+               0 File(s)              0 bytes
+              16 Dir(s)  15.764.426.752 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138
+
+22.03.2024  20:26    <DIR>          .
+22.03.2024  20:26    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  15.742.619.648 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add README.md
+fatal: pathspec 'README.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init\
+git: 'init\' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init
+Reinitialized existing Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add readme.md
+fatal: pathspec 'readme.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138
+
+22.03.2024  20:26    <DIR>          .
+22.03.2024  20:26    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  15.529.148.416 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init\
+git: 'init\' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init
+Reinitialized existing Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd .git
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git add readme.md
+fatal: this operation must be run in a work tree
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138\.git
+
+23.03.2024  10:50               260 config
+22.03.2024  20:26                73 description
+22.03.2024  20:26                23 HEAD
+22.03.2024  20:26    <DIR>          hooks
+22.03.2024  20:26    <DIR>          info
+22.03.2024  20:26    <DIR>          objects
+22.03.2024  20:26    <DIR>          refs
+               3 File(s)            356 bytes
+               4 Dir(s)  15.441.657.856 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git add README.md
+fatal: this operation must be run in a work tree
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git status
+fatal: this operation must be run in a work tree
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git branch
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git add README.md
+fatal: this operation must be run in a work tree
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git --work-three
+unknown option: --work-three
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git --work-three  c
+unknown option: --work-three
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git --work-three  v
+unknown option: --work-three
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138\.git
+
+23.03.2024  10:50               260 config
+22.03.2024  20:26                73 description
+22.03.2024  20:26                23 HEAD
+22.03.2024  20:26    <DIR>          hooks
+22.03.2024  20:26    <DIR>          info
+22.03.2024  20:26    <DIR>          objects
+22.03.2024  20:26    <DIR>          refs
+               3 File(s)            356 bytes
+               4 Dir(s)  14.515.023.872 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git init
+Initialized empty Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git add readme.md
+fatal: pathspec 'readme.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git add file.txt
+fatal: pathspec 'file.txt' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>cd ..
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>\git add readme.md
+'\git' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd .git
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git init
+Reinitialized existing Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>cd ..
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>\dir
+'\dir' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init
+Reinitialized existing Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd ..
+
+C:\Users\kiki^.^>git init
+Initialized empty Git repository in C:/Users/kiki^.^/.git/
+
+C:\Users\kiki^.^>git add readme.md
+fatal: pathspec 'readme.md' did not match any files
+
+C:\Users\kiki^.^>git status
+warning: could not open directory 'Application Data/': Permission denied
+warning: could not open directory 'Cookies/': Permission denied
+warning: could not open directory 'Local Settings/': Permission denied
+warning: could not open directory 'My Documents/': Permission denied
+warning: could not open directory 'NetHood/': Permission denied
+warning: could not open directory 'PrintHood/': Permission denied
+warning: could not open directory 'Recent/': Permission denied
+warning: could not open directory 'SendTo/': Permission denied
+warning: could not open directory 'Start Menu/': Permission denied
+warning: could not open directory 'Templates/': Permission denied
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .PyCharmCE2018.3/
+        .gitconfig
+        .idlerc/
+        .lesshst
+        .vscode/
+        3D Objects/
+        AppData/
+        Contacts/
+        Creative Cloud Files/
+        Desktop/
+        Documents/
+        Downloads/
+        Favorites/
+        IntelGraphicsProfiles/
+        Links/
+        Microsoft/
+        MicrosoftEdgeBackups/
+        Music/
+        NTUSER.DAT
+        NTUSER.DAT{10f4f575-966d-11eb-8e04-f098f94f742b}.TM.blf
+        NTUSER.DAT{10f4f575-966d-11eb-8e04-f098f94f742b}.TMContainer00000000000000000001.regtrans-ms
+        NTUSER.DAT{10f4f575-966d-11eb-8e04-f098f94f742b}.TMContainer00000000000000000002.regtrans-ms
+        OneDrive/
+        Pictures/
+        PycharmProjects/
+        SI_2024_lab1_143138/
+        Searches/
+        Videos/
+        magnolia-6.2.11/
+        ntuser.dat.LOG1
+        ntuser.dat.LOG2
+        ntuser.ini
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\kiki^.^>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+C:\Users\kiki^.^>git add .readme.md
+fatal: pathspec '.readme.md' did not match any files
+
+C:\Users\kiki^.^>git add si_2024_lab1_143138 readme.md
+fatal: pathspec 'readme.md' did not match any files
+
+C:\Users\kiki^.^>cd si_2024?lab1>143138
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Users\kiki^.^>cd si_2024_lab1_143138
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>add readme.md\
+'add' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>add readme.md\
+'add' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>add readme.md
+'add' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add readme.md
+fatal: pathspec 'readme.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add readme.txt
+fatal: pathspec 'readme.txt' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init
+Reinitialized existing Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "first commit"
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch -M master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git remote add origin https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+error: remote origin already exists.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push -u origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git remote add origin https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+error: remote origin already exists.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch _m
+fatal: not a valid object name: 'master'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch -M master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138
+
+22.03.2024  20:26    <DIR>          .
+22.03.2024  20:26    <DIR>          ..
+               0 File(s)              0 bytes
+               2 Dir(s)  15.633.256.448 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>
+C:\Users\kiki^.^\SI_2024_lab1_143138>git status
+On branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git addd
+git: 'addd' is not a git command. See 'git --help'.
+
+The most similar command is
+        add
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git help
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--config-env=<name>=<envvar>] <command> [<args>]
+
+These are common Git commands used in various situations:
+
+start a working area (see also: git help tutorial)
+   clone     Clone a repository into a new directory
+   init      Create an empty Git repository or reinitialize an existing one
+
+work on the current change (see also: git help everyday)
+   add       Add file contents to the index
+   mv        Move or rename a file, a directory, or a symlink
+   restore   Restore working tree files
+   rm        Remove files from the working tree and from the index
+
+examine the history and state (see also: git help revisions)
+   bisect    Use binary search to find the commit that introduced a bug
+   diff      Show changes between commits, commit and working tree, etc
+   grep      Print lines matching a pattern
+   log       Show commit logs
+   show      Show various types of objects
+   status    Show the working tree status
+
+grow, mark and tweak your common history
+   branch    List, create, or delete branches
+   commit    Record changes to the repository
+   merge     Join two or more development histories together
+   rebase    Reapply commits on top of another base tip
+   reset     Reset current HEAD to the specified state
+   switch    Switch branches
+   tag       Create, list, delete or verify a tag object signed with GPG
+
+collaborate (see also: git help workflows)
+   fetch     Download objects and refs from another repository
+   pull      Fetch from and integrate with another repository or a local branch
+   push      Update remote refs along with associated objects
+
+'git help -a' and 'git help -g' list available subcommands and some
+concept guides. See 'git help <command>' or 'git help <concept>'
+to read about a specific subcommand or concept.
+See 'git help git' for an overview of the system.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit
+On branch master
+
+Initial commit
+
+nothing to commit (create/copy files and use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138> help
+For more information on a specific command, type HELP command-name
+ASSOC          Displays or modifies file extension associations.
+ATTRIB         Displays or changes file attributes.
+BREAK          Sets or clears extended CTRL+C checking.
+BCDEDIT        Sets properties in boot database to control boot loading.
+CACLS          Displays or modifies access control lists (ACLs) of files.
+CALL           Calls one batch program from another.
+CD             Displays the name of or changes the current directory.
+CHCP           Displays or sets the active code page number.
+CHDIR          Displays the name of or changes the current directory.
+CHKDSK         Checks a disk and displays a status report.
+CHKNTFS        Displays or modifies the checking of disk at boot time.
+CLS            Clears the screen.
+CMD            Starts a new instance of the Windows command interpreter.
+COLOR          Sets the default console foreground and background colors.
+COMP           Compares the contents of two files or sets of files.
+COMPACT        Displays or alters the compression of files on NTFS partitions.
+CONVERT        Converts FAT volumes to NTFS.  You cannot convert the
+               current drive.
+COPY           Copies one or more files to another location.
+DATE           Displays or sets the date.
+DEL            Deletes one or more files.
+DIR            Displays a list of files and subdirectories in a directory.
+DISKPART       Displays or configures Disk Partition properties.
+DOSKEY         Edits command lines, recalls Windows commands, and
+               creates macros.
+DRIVERQUERY    Displays current device driver status and properties.
+ECHO           Displays messages, or turns command echoing on or off.
+ENDLOCAL       Ends localization of environment changes in a batch file.
+ERASE          Deletes one or more files.
+EXIT           Quits the CMD.EXE program (command interpreter).
+FC             Compares two files or sets of files, and displays the
+               differences between them.
+FIND           Searches for a text string in a file or files.
+FINDSTR        Searches for strings in files.
+FOR            Runs a specified command for each file in a set of files.
+FORMAT         Formats a disk for use with Windows.
+FSUTIL         Displays or configures the file system properties.
+FTYPE          Displays or modifies file types used in file extension
+               associations.
+GOTO           Directs the Windows command interpreter to a labeled line in
+               a batch program.
+GPRESULT       Displays Group Policy information for machine or user.
+GRAFTABL       Enables Windows to display an extended character set in
+               graphics mode.
+HELP           Provides Help information for Windows commands.
+ICACLS         Display, modify, backup, or restore ACLs for files and
+               directories.
+IF             Performs conditional processing in batch programs.
+LABEL          Creates, changes, or deletes the volume label of a disk.
+MD             Creates a directory.
+MKDIR          Creates a directory.
+MKLINK         Creates Symbolic Links and Hard Links
+MODE           Configures a system device.
+MORE           Displays output one screen at a time.
+MOVE           Moves one or more files from one directory to another
+               directory.
+OPENFILES      Displays files opened by remote users for a file share.
+PATH           Displays or sets a search path for executable files.
+PAUSE          Suspends processing of a batch file and displays a message.
+POPD           Restores the previous value of the current directory saved by
+               PUSHD.
+PRINT          Prints a text file.
+PROMPT         Changes the Windows command prompt.
+PUSHD          Saves the current directory then changes it.
+RD             Removes a directory.
+RECOVER        Recovers readable information from a bad or defective disk.
+REM            Records comments (remarks) in batch files or CONFIG.SYS.
+REN            Renames a file or files.
+RENAME         Renames a file or files.
+REPLACE        Replaces files.
+RMDIR          Removes a directory.
+ROBOCOPY       Advanced utility to copy files and directory trees
+SET            Displays, sets, or removes Windows environment variables.
+SETLOCAL       Begins localization of environment changes in a batch file.
+SC             Displays or configures services (background processes).
+SCHTASKS       Schedules commands and programs to run on a computer.
+SHIFT          Shifts the position of replaceable parameters in batch files.
+SHUTDOWN       Allows proper local or remote shutdown of machine.
+SORT           Sorts input.
+START          Starts a separate window to run a specified program or command.
+SUBST          Associates a path with a drive letter.
+SYSTEMINFO     Displays machine specific properties and configuration.
+TASKLIST       Displays all currently running tasks including services.
+TASKKILL       Kill or stop a running process or application.
+TIME           Displays or sets the system time.
+TITLE          Sets the window title for a CMD.EXE session.
+TREE           Graphically displays the directory structure of a drive or
+               path.
+TYPE           Displays the contents of a text file.
+VER            Displays the Windows version.
+VERIFY         Tells Windows whether to verify that your files are written
+               correctly to a disk.
+VOL            Displays a disk volume label and serial number.
+XCOPY          Copies files and directory trees.
+WMIC           Displays WMI information inside interactive command shell.
+
+For more information on tools see the command-line reference in the online help.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init\
+git: 'init\' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git init
+Reinitialized existing Git repository in C:/Users/kiki^.^/SI_2024_lab1_143138/.git/
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>
+C:\Users\kiki^.^\SI_2024_lab1_143138>cd .git
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138\.git
+
+23.03.2024  11:02               178 COMMIT_EDITMSG
+23.03.2024  11:06               260 config
+22.03.2024  20:26                73 description
+23.03.2024  11:00                23 HEAD
+22.03.2024  20:26    <DIR>          hooks
+23.03.2024  10:59                65 index
+22.03.2024  20:26    <DIR>          info
+23.03.2024  10:59    <DIR>          objects
+22.03.2024  20:26    <DIR>          refs
+               5 File(s)            599 bytes
+               4 Dir(s)  15.635.009.536 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>git add readme.md
+fatal: pathspec 'readme.md' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138\.git>cd ..
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add readme.txt
+fatal: pathspec 'readme.txt' did not match any files
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>echo "# SI_2024_lab1_143138" >> README.md
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138
+
+23.03.2024  11:08    <DIR>          .
+23.03.2024  11:08    <DIR>          ..
+23.03.2024  11:08                26 README.md
+               1 File(s)             26 bytes
+               2 Dir(s)  15.634.620.416 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -M
+error: unknown switch `M'
+usage: git commit [-a | --interactive | --patch] [-s] [-v] [-u<mode>] [--amend]
+                  [--dry-run] [(-c | -C | --squash) <commit> | --fixup [(amend|reword):]<commit>)]
+                  [-F <file> | -m <msg>] [--reset-author] [--allow-empty]
+                  [--allow-empty-message] [--no-verify] [-e] [--author=<author>]
+                  [--date=<date>] [--cleanup=<mode>] [--[no-]status]
+                  [-i | -o] [--pathspec-from-file=<file> [--pathspec-file-nul]]
+                  [(--trailer <token>[(=|:)<value>])...] [-S[<keyid>]]
+                  [--] [<pathspec>...]
+
+    -q, --[no-]quiet      suppress summary after successful commit
+    -v, --[no-]verbose    show diff in commit message template
+
+Commit message options
+    -F, --[no-]file <file>
+                          read message from file
+    --[no-]author <author>
+                          override author for commit
+    --[no-]date <date>    override date for commit
+    -m, --[no-]message <message>
+                          commit message
+    -c, --[no-]reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --[no-]reuse-message <commit>
+                          reuse message from specified commit
+    --[no-]fixup [(amend|reword):]commit
+                          use autosquash formatted message to fixup or amend/reword specified commit
+    --[no-]squash <commit>
+                          use autosquash formatted message to squash specified commit
+    --[no-]reset-author   the commit is authored by me now (used with -C/-c/--amend)
+    --trailer <trailer>   add custom trailer(s)
+    -s, --[no-]signoff    add a Signed-off-by trailer
+    -t, --[no-]template <file>
+                          use specified template file
+    -e, --[no-]edit       force edit of commit
+    --[no-]cleanup <mode> how to strip spaces and #comments from message
+    --[no-]status         include status in commit message template
+    -S, --[no-]gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --[no-]all        commit all changed files
+    -i, --[no-]include    add specified files to index for commit
+    --[no-]interactive    interactively add files
+    -p, --[no-]patch      interactively add changes
+    -o, --[no-]only       commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --verify              opposite of --no-verify
+    --[no-]dry-run        show what would be committed
+    --[no-]short          show status concisely
+    --[no-]branch         show branch information
+    --[no-]ahead-behind   compute full ahead/behind values
+    --[no-]porcelain      machine-readable output
+    --[no-]long           show status in long format (default)
+    -z, --[no-]null       terminate entries with NUL
+    --[no-]amend          amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    --post-rewrite        opposite of --no-post-rewrite
+    -u, --[no-]untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --[no-]pathspec-from-file <file>
+                          read pathspec from file
+    --[no-]pathspec-file-nul
+                          with --pathspec-from-file, pathspec elements are separated with NUL character
+
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -M inital commit
+error: unknown switch `M'
+usage: git commit [-a | --interactive | --patch] [-s] [-v] [-u<mode>] [--amend]
+                  [--dry-run] [(-c | -C | --squash) <commit> | --fixup [(amend|reword):]<commit>)]
+                  [-F <file> | -m <msg>] [--reset-author] [--allow-empty]
+                  [--allow-empty-message] [--no-verify] [-e] [--author=<author>]
+                  [--date=<date>] [--cleanup=<mode>] [--[no-]status]
+                  [-i | -o] [--pathspec-from-file=<file> [--pathspec-file-nul]]
+                  [(--trailer <token>[(=|:)<value>])...] [-S[<keyid>]]
+                  [--] [<pathspec>...]
+
+    -q, --[no-]quiet      suppress summary after successful commit
+    -v, --[no-]verbose    show diff in commit message template
+
+Commit message options
+    -F, --[no-]file <file>
+                          read message from file
+    --[no-]author <author>
+                          override author for commit
+    --[no-]date <date>    override date for commit
+    -m, --[no-]message <message>
+                          commit message
+    -c, --[no-]reedit-message <commit>
+                          reuse and edit message from specified commit
+    -C, --[no-]reuse-message <commit>
+                          reuse message from specified commit
+    --[no-]fixup [(amend|reword):]commit
+                          use autosquash formatted message to fixup or amend/reword specified commit
+    --[no-]squash <commit>
+                          use autosquash formatted message to squash specified commit
+    --[no-]reset-author   the commit is authored by me now (used with -C/-c/--amend)
+    --trailer <trailer>   add custom trailer(s)
+    -s, --[no-]signoff    add a Signed-off-by trailer
+    -t, --[no-]template <file>
+                          use specified template file
+    -e, --[no-]edit       force edit of commit
+    --[no-]cleanup <mode> how to strip spaces and #comments from message
+    --[no-]status         include status in commit message template
+    -S, --[no-]gpg-sign[=<key-id>]
+                          GPG sign commit
+
+Commit contents options
+    -a, --[no-]all        commit all changed files
+    -i, --[no-]include    add specified files to index for commit
+    --[no-]interactive    interactively add files
+    -p, --[no-]patch      interactively add changes
+    -o, --[no-]only       commit only specified files
+    -n, --no-verify       bypass pre-commit and commit-msg hooks
+    --verify              opposite of --no-verify
+    --[no-]dry-run        show what would be committed
+    --[no-]short          show status concisely
+    --[no-]branch         show branch information
+    --[no-]ahead-behind   compute full ahead/behind values
+    --[no-]porcelain      machine-readable output
+    --[no-]long           show status in long format (default)
+    -z, --[no-]null       terminate entries with NUL
+    --[no-]amend          amend previous commit
+    --no-post-rewrite     bypass post-rewrite hook
+    --post-rewrite        opposite of --no-post-rewrite
+    -u, --[no-]untracked-files[=<mode>]
+                          show untracked files, optional modes: all, normal, no. (Default: all)
+    --[no-]pathspec-from-file <file>
+                          read pathspec from file
+    --[no-]pathspec-file-nul
+                          with --pathspec-from-file, pathspec elements are separated with NUL character
+
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add readme.md
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138
+
+23.03.2024  11:08    <DIR>          .
+23.03.2024  11:08    <DIR>          ..
+23.03.2024  11:08                26 README.md
+               1 File(s)             26 bytes
+               2 Dir(s)  15.632.932.864 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Inital commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        README.md
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add README.md
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Inital commit"
+[master (root-commit) 734b2bc] Inital commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 README.md
+
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
+Microsoft Windows [Version 10.0.19045.4170]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\kiki^.^>cd SI_2024_lab1_143138
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 4E4E-08BC
+
+ Directory of C:\Users\kiki^.^\SI_2024_lab1_143138
+
+24.03.2024  15:10    <DIR>          .
+24.03.2024  15:10    <DIR>          ..
+23.03.2024  11:08                26 README.md
+23.03.2024  22:32               363 SILab1Main.java
+24.03.2024  15:08               361 SILab1_1.java
+24.03.2024  15:09               346 SILab1_2.java
+               4 File(s)          1.096 bytes
+               2 Dir(s)  17.509.548.032 bytes free
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add .
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit addstartercode
+error: pathspec 'addstartercode' did not match any file(s) known to git
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m addstartercode
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push origin master
+To https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push origin master
+To https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git pull origin master
+From https://github.com/HristinaJanevska/SI_2024_lab1_143138
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git pull origin master
+From https://github.com/HristinaJanevska/SI_2024_lab1_143138
+ * branch            master     -> FETCH_HEAD
+fatal: refusing to merge unrelated histories
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push origin master
+To https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout master
+Already on 'master'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git merge bug123
+merge: bug123 - not something we can merge
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>status
+'status' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add .
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push -u origin master
+To https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+ ! [rejected]        master -> master (non-fast-forward)
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push --set-upstream origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push -u origin main\
+fatal: invalid refspec 'main\'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push --force origin master
+Enumerating objects: 8, done.
+Counting objects: 100% (8/8), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (8/8), 1.13 KiB | 116.00 KiB/s, done.
+Total 8 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+ + 81f1946...d652ea1 master -> master (forced update)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push --force origin master-all
+error: src refspec master-all does not match any
+error: failed to push some refs to 'https://github.com/HristinaJanevska/SI_2024_lab1_143138.git'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout master
+Already on 'master'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout -b bug1
+Switched to a new branch 'bug1'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout master
+Switched to branch 'master'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout maste
+error: pathspec 'maste' did not match any file(s) known to git
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug1
+Switched to branch 'bug1'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout -b bug2
+Switched to a new branch 'bug2'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug1
+Switched to branch 'bug1'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch
+* bug1
+  bug2
+  master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add SILab1_1.java
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Fix wrong condition in filterOddLengthStrings"
+On branch bug1
+nothing to commit, working tree clean
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add SILab1_1.java
+warning: in the working copy of 'SILab1_1.java', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Fix wrong condition in filterOddLengthStrings"
+[bug1 3a472ce] Fix wrong condition in filterOddLengthStrings
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug2
+Switched to branch 'bug2'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch
+  bug1
+* bug2
+  master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add SILab1_2.java
+warning: in the working copy of 'SILab1_2.java', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Fix wrong condition in filterOddLengthStringmake BigStringFrom"
+[bug2 d178f10] Fix wrong condition in filterOddLengthStringmake BigStringFrom
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Fix wrong condition in make BigStringFrom"
+On branch bug2
+nothing to commit, working tree clean
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add SILab1_2.java
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Fix wrong condition in make BigStringFrom"
+On branch bug2
+nothing to commit, working tree clean
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch
+  bug1
+* bug2
+  master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug1\
+error: pathspec 'bug1\' did not match any file(s) known to git
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug1
+Switched to branch 'bug1'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug1
+Already on 'bug1'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch
+* bug1
+  bug2
+  master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add SILab1Main.java
+warning: in the working copy of 'SILab1Main.java', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Call method filterOddLenghtStrings in main class"
+[bug1 cd31bbd] Call method filterOddLenghtStrings in main class
+ 1 file changed, 1 insertion(+)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug2
+Switched to branch 'bug2'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Call method makeBigStringFrom in main class"
+On branch bug2
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   SILab1Main.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch
+  bug1
+* bug2
+  master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch bug1
+fatal: a branch named 'bug1' already exists
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch
+  bug1
+* bug2
+  master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout bug1
+error: Your local changes to the following files would be overwritten by checkout:
+        SILab1Main.java
+Please commit your changes or stash them before you switch branches.
+Aborting
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Call method makeBigStringFrom in main class"
+On branch bug2
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   SILab1Main.java
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git branch
+  bug1
+* bug2
+  master
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git add SILab1Main.java
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git commit -m "Call method makeBigStringFrom in main class"
+[bug2 6b6f071] Call method makeBigStringFrom in main class
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git push origin bug1 bug2
+Enumerating objects: 16, done.
+Counting objects: 100% (16/16), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (12/12), 1.20 KiB | 94.00 KiB/s, done.
+Total 12 (delta 8), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (8/8), completed with 4 local objects.
+To https://github.com/HristinaJanevska/SI_2024_lab1_143138.git
+ * [new branch]      bug1 -> bug1
+ * [new branch]      bug2 -> bug2
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>git checkout master
+Switched to branch 'master'
+
+C:\Users\kiki^.^\SI_2024_lab1_143138>

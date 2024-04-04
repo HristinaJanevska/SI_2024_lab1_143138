@@ -1,0 +1,29 @@
+9c8f2f1 (HEAD -> master, origin/bug2, bug2) HEAD@{0}: merge bug2: Fast-forward
+cd31bbd (origin/bug1, bug1) HEAD@{1}: checkout: moving from bug2 to master
+9c8f2f1 (HEAD -> master, origin/bug2, bug2) HEAD@{2}: rebase (finish): returning to refs/heads/bug2
+9c8f2f1 (HEAD -> master, origin/bug2, bug2) HEAD@{3}: rebase (pick): Fix wrong condition in filterOddLengthStringmake BigStringFrom
+cd31bbd (origin/bug1, bug1) HEAD@{4}: rebase (start): checkout master
+6b6f071 HEAD@{5}: checkout: moving from bug2 to bug2
+6b6f071 HEAD@{6}: rebase (abort): returning to refs/heads/bug2
+b55512a HEAD@{7}: rebase (pick): Fix wrong condition in filterOddLengthStringmake BigStringFrom
+cd31bbd (origin/bug1, bug1) HEAD@{8}: rebase (start): checkout master
+6b6f071 HEAD@{9}: checkout: moving from master to bug2
+cd31bbd (origin/bug1, bug1) HEAD@{10}: merge bug1: Fast-forward
+d652ea1 (origin/master) HEAD@{11}: checkout: moving from bug2 to master
+6b6f071 HEAD@{12}: commit: Call method makeBigStringFrom in main class
+d178f10 HEAD@{13}: checkout: moving from bug1 to bug2
+cd31bbd (origin/bug1, bug1) HEAD@{14}: commit: Call method filterOddLenghtStrings in main class
+3a472ce HEAD@{15}: checkout: moving from bug1 to bug1
+3a472ce HEAD@{16}: checkout: moving from bug2 to bug1
+d178f10 HEAD@{17}: commit: Fix wrong condition in filterOddLengthStringmake BigStringFrom
+d652ea1 (origin/master) HEAD@{18}: checkout: moving from bug1 to bug2
+3a472ce HEAD@{19}: commit: Fix wrong condition in filterOddLengthStrings
+d652ea1 (origin/master) HEAD@{20}: checkout: moving from bug2 to bug1
+d652ea1 (origin/master) HEAD@{21}: checkout: moving from bug1 to bug2
+d652ea1 (origin/master) HEAD@{22}: checkout: moving from master to bug1
+d652ea1 (origin/master) HEAD@{23}: checkout: moving from bug1 to master
+d652ea1 (origin/master) HEAD@{24}: checkout: moving from master to bug1
+d652ea1 (origin/master) HEAD@{25}: checkout: moving from master to master
+d652ea1 (origin/master) HEAD@{26}: checkout: moving from master to master
+d652ea1 (origin/master) HEAD@{27}: commit: AddStarterCode
+734b2bc HEAD@{28}: commit (initial): Inital commit
